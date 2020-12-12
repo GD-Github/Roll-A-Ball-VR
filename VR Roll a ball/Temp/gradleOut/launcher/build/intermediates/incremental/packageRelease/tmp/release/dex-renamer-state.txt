@@ -1,4 +1,4 @@
-#Sat Dec 12 19:27:29 CET 2020
+#Sat Dec 12 19:35:49 CET 2020
 base.0=/home/guillaume/VR/IGD/Roll-A-Ball-VR/VR Roll a ball/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex
