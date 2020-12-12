@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/home/guillaume/VR Roll a ball/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "outputFile": "/home/guillaume/VR/IGD/Roll-A-Ball-VR/VR Roll a ball/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/guillaume/VR Roll a ball/Temp/gradleOut/launcher/src/main/res/values/styles.xml",
+                    "source": "/home/guillaume/VR/IGD/Roll-A-Ball-VR/VR Roll a ball/Temp/gradleOut/launcher/src/main/res/values/ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                },
+                {
+                    "source": "/home/guillaume/VR/IGD/Roll-A-Ball-VR/VR Roll a ball/Temp/gradleOut/launcher/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "5,2,7",
                         "startColumns": "0,0,0",
@@ -23,24 +40,7 @@
                     }
                 },
                 {
-                    "source": "/home/guillaume/VR Roll a ball/Temp/gradleOut/launcher/src/main/res/values/ids.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "46",
-                        "endOffsets": "97"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "45",
-                        "endOffsets": "96"
-                    }
-                },
-                {
-                    "source": "/home/guillaume/VR Roll a ball/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
+                    "source": "/home/guillaume/VR/IGD/Roll-A-Ball-VR/VR Roll a ball/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "2,2",

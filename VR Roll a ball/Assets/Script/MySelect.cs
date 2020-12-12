@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class MySelect : MonoBehaviour
 {
@@ -11,13 +12,13 @@ public class MySelect : MonoBehaviour
 	private GameObject selectedObj;
 	
 	void OnTriggerEnter(Collider other){
-	if (other.gameObject.name == "rab"){
+	if (other.gameObject.name == "roll-a-ball"){
 		isInCollider = true;
 		selectedObj = other.gameObject;
 		}
 	}
 	void OnTriggerExit(Collider other){
-	if(other.gameObject.name == "rab"){
+	if(other.gameObject.name == "roll-a-ball"){
 		isInCollider = false;
 		selectedObj = null;
 		}
